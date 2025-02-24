@@ -1,0 +1,3 @@
+whatsapp-bot/
+└── plugins/
+    └── examplePlugin.js  # Example plugin file, can contain additional bot commands
